@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <conio.h>
 
-
 int main()
 {
   int array[100], n, c, d, swap;
